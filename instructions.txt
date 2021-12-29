@@ -1,0 +1,8 @@
+Enter a 4 digit number to guess the secret code.
+The code is made of 4 diffrent digits from 0-9.
+After every attempt you will get the number of digits
+you found are in the right place in the secret code (direct hits)
+And the number of digits you found are in the secret code
+but not in the right place (not direct hits).
+the goal is to guess the secret code.
+good luck!
